@@ -12,3 +12,10 @@
 -->
 
 ![RegisterUser](./RegisterUser.jpeg)
+![RegisterShop](./RegisterShop.jpeg)
+![LoginUser](./LoginUser.jpeg)
+![LoginShop](./LoginShop.g)
+![ViewUser](ViewUser.jpeg)
+![UpdateUser](./UpdateUser.jpeg)
+![HomepageFE](./HomepageFE.jpeg)
+![FullHomepageFE](./FullHomepageFE.jpeg)
