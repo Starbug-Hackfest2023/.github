@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Starbug Project where we put our Gawaiku app repository
 
 - Addin Amanatulloh Suparjo  : Hipster 
 - Aidil Arifin Nizar 	   : Hustler
