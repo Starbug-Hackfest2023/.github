@@ -14,7 +14,7 @@
 ![RegisterUser](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/RegisterUser.jpeg) 
 ![RegisterShop](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/RegisterShop.jpeg)
 ![LoginUser](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/LoginUser.jpeg)
-![LoginShop](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/LoginShop.g)
+![LoginShop](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/LoginShop.jpeg)
 ![ViewUser](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/ViewUser.jpeg)
 ![UpdateUser](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/UpdateUser.jpeg)
 ![HomepageFE](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/HomepageFE.jpeg)
