@@ -1,5 +1,8 @@
 ## Hi there 👋 This is Starbug Project where we put our Gawaiku app repository
 
+# Gawaiku
+To enhance accesibility locales that provide services based on electronic fields in web applications with a form of eCommerce.
+
 - Addin Amanatulloh Suparjo  : Hipster 
 - Aidil Arifin Nizar 	   : Hustler
 - Adhyasta Naufal Fadillah   : Hacker (Front-End)
