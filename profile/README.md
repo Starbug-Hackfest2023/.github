@@ -37,7 +37,7 @@ To enhance accesibility locales that provide services based on electronic fields
 ![UpdateUser](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/UpdateUser.jpeg)
 
 ### Homepage FE
-![HomepageFE](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/HomepageFE.jpeg)
+![HomepageFE](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/HompageFE.jpeg)
 
 ### Full Homepage FE
 ![FullHomepageFE](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/FullHomepageFE.jpeg)
@@ -45,8 +45,8 @@ To enhance accesibility locales that provide services based on electronic fields
 ### Page Tentang Kami
 ![PageTentangKami](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/PageTentangKami.jpeg)
 
-### Page Konsultasi Teknis
-![PageKonsultasi-Teknis](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/PageKonsultasi-Teknis.jpeg)
+### Page Konsultasi Teknisi
+![PageKonsultasi-Teknis](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/PageKonsultasi-Teknisi.jpeg)
 
 ### Page Chat
 ![PageChat-Teknisi](https://github.com/Starbug-Hackfest2023/.github/blob/main/profile/PageChat-Teknisi.jpeg)
