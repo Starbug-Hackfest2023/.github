@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-#Addin Amanatulloh Suparjo  : Hipster 
-#Aidil Arifin Nizar 	   : Hustler
-#Adhyasta Naufal Fadillah   : Hacker (Front-End)
-#Shidqi Fadhlurrahman Yusri : Hacker (Back-End)
+- Addin Amanatulloh Suparjo  : Hipster 
+- Aidil Arifin Nizar 	   : Hustler
+- Adhyasta Naufal Fadillah   : Hacker (Front-End)
+- Shidqi Fadhlurrahman Yusri : Hacker (Back-End)
 <!--
 
 **Here are some ideas to get you started:**
